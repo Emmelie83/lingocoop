@@ -3,7 +3,8 @@ AI-assisted translation workflows. Created by and for translators. No agencies. 
 
 ## MVP Goals
 - [ ] Upload source text or document
-- [ ] Get AI draft translation (GPT/Hugging Face)
+- [ ] Allow translation by human collaborator combined with (GPT/Hugging Face)
+- [ ] Allow QA by (GPT/Hugging Face)
 - [ ] Allow review/edit by human collaborator
 - [ ] Save and download final translation
 
@@ -23,4 +24,4 @@ cd frontend && npm install && npm run dev
 ```
 
 ## Contribute
-PRs and translators welcome! Join the co-op.
+Programmers and translators welcome! Join the co-op.
