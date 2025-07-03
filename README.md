@@ -1,4 +1,4 @@
-# lingocoop
+# lingcoop
 AI-assisted translation workflows. Created by and for translators. No agencies. No middlemen.
 
 ## MVP Goals
